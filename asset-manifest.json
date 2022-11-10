@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jangbaguny/static/css/main.b11297d4.css",
+    "main.js": "/jangbaguny/static/js/main.7fd58bd1.js",
+    "static/js/787.eaad36ba.chunk.js": "/jangbaguny/static/js/787.eaad36ba.chunk.js",
+    "index.html": "/jangbaguny/index.html",
+    "main.b11297d4.css.map": "/jangbaguny/static/css/main.b11297d4.css.map",
+    "main.7fd58bd1.js.map": "/jangbaguny/static/js/main.7fd58bd1.js.map",
+    "787.eaad36ba.chunk.js.map": "/jangbaguny/static/js/787.eaad36ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b11297d4.css",
+    "static/js/main.7fd58bd1.js"
+  ]
+}
