@@ -11,7 +11,6 @@
 * React.js
 
 # 라이브러리
-* styled-components
 * react-dom
 * react-router-dom
 * prettier
