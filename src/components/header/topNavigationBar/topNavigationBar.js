@@ -8,7 +8,7 @@ export const TopNavigationBar = ({ cart }) => {
             <div className={styles.inner}>
                 <Link to="/">
                     <h1 className={styles.logo}>
-                        <img src="../images/logo.png" alt="logo" />
+                        <img src="/images/logo.png" alt="logo" />
                     </h1>
                 </Link>
                 <div className={styles.input_wrap}>
@@ -20,10 +20,7 @@ export const TopNavigationBar = ({ cart }) => {
             <div className={styles.menu}>
                 <Link to="/cart">
                     <div className={styles.shopping_cart}>
-                        <img
-                            src="../images/icon-shopping-cart.svg"
-                            alt="cart"
-                        />
+                        <img src="/images/icon-shopping-cart.svg" alt="cart" />
                         <span>장바구니</span>
                         {cart.length >= 1 ? (
                             <div className={styles.new_shopping_cart}>
@@ -37,7 +34,7 @@ export const TopNavigationBar = ({ cart }) => {
 
                 <Link to="">
                     <div className={styles.mypage}>
-                        <img src="../images/icon-user.svg" alt="user" />
+                        <img src="/images/icon-user.svg" alt="user" />
                         <span>로그인</span>
                     </div>
                 </Link>
